@@ -1,5 +1,6 @@
 web-search plugin
 -----------------
+## :warning: this repository was transferred to another owner: [sineto/web-search](https://github.com/sineto/web-search).
 This plugin allow aliases for searching from terminal with some popular web search engines.
 
 ## Installation
